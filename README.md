@@ -1,23 +1,4 @@
-**中文说明** | [English](./README_EN.md)
-
 # WeiboSpider
-<a href="https://github.com/nghuyong/WeiboSpider/stargazers">
-    <img src="https://img.shields.io/github/stars/nghuyong/WeiboSpider.svg?colorA=orange&colorB=orange&logo=github"
-         alt="GitHub stars">
-  </a>
-  <a href="https://github.com/nghuyong/WeiboSpider/issues">
-        <img src="https://img.shields.io/github/issues/nghuyong/WeiboSpider.svg"
-             alt="GitHub issues">
-  </a>
-  <a href="https://github.com/nghuyong/WeiboSpider/">
-        <img src="https://img.shields.io/github/last-commit/nghuyong/WeiboSpider.svg">
-  </a>
-  <a href="https://github.com/nghuyong/WeiboSpider/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/nghuyong/WeiboSpider.svg"
-             alt="GitHub license">
-</a>
-
-持续维护的新浪微博爬虫🚀🚀🚀
 
 ## 项目说明
 

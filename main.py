@@ -492,6 +492,6 @@ if __name__ == '__main__':
                                            args.min_like_num, args.min_repost_num, args.min_comment_num,
                                            args.file_dir, args.run_dir, args.max_workers, args.days_per_worker,
                                            args.num_topics, args.max_iter, args.num_top_words)
-    # weibospider_runner.crawl()
+    weibospider_runner.crawl()
     weibospider_runner.analyze()
 
